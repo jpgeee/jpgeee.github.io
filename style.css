@@ -1,6 +1,9 @@
 body {
     background-color: #ddd;
 }
+h1 {
+    text-align: center;
+}
 #licence {
     text-align: center;
 }
